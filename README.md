@@ -14,3 +14,8 @@ Test
 ```
 truffle test
 ```
+
+Create Contract
+```
+truffle create contract PartyParrotToken
+```
