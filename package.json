@@ -1,0 +1,26 @@
+{
+  "name": "my-smart-contract",
+  "version": "1.0.0",
+  "description": "my-smart-contract ===",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bignumber.js": "^9.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chechiachang/my-smart-contract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chechiachang/my-smart-contract/issues"
+  },
+  "homepage": "https://github.com/chechiachang/my-smart-contract#readme"
+}
